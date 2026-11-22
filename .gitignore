@@ -71,3 +71,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 __pycache__/
+instagram/extra/*.mp4
+instagram/extra/*_mix.wav
