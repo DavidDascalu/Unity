@@ -167,7 +167,7 @@ def reveal(canvas, txt, font, cx, top, t, t0, t1=None, fill=TEXT, accent=None, r
     if q > 0: im = im.filter(ImageFilter.GaussianBlur(q * 12))
     paste(canvas, fade(im, a), cx - im.width / 2, top - 20 + (1 - k) * rise)
 
-SUBS = [("Ce mănânci azi?", 2.50, 4.0), ("Scanezi. Gata.", 5.00, 7.0), ("Fiecare masă contează.", 8.00, 9.9),
+SUBS = [("Ce mănânci azi?", 2.50, 4.0), ("Scanezi. Gata!", 5.00, 7.0), ("Fiecare masă contează.", 8.00, 9.9),
         ("Un pas odată.", 12.20, 13.6)]       # 17.60 "Alimentație cu ritm." is shown as the tagline itself
 F_SUB = F("b", 50)
 

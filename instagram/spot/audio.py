@@ -18,8 +18,8 @@ rng = np.random.default_rng(2026)
 
 # ---------------- beat sheet (seconds) ----------------
 VOICE = [  # file, time the first word starts
-    ("1_ce_mananci_B.mp3", 2.50), ("2_scanezi_A.mp3", 5.00), ("3_fiecare_A.mp3", 8.00),
-    ("4_un_pas_A.mp3", 12.20), ("5_alimentatie_A.mp3", 17.60)]
+    ("u1_ce_mananci.mp3", 2.50), ("u2_scanezi.mp3", 5.00), ("u3_fiecare.mp3", 8.00),
+    ("u4_un_pas.mp3", 12.20), ("u5_alimentatie.mp3", 17.60)]   # upbeat takes ([happy]); the calm ones are kept as 1_..5_
 CUES = {
     "line_in": 0.00, "impact": 0.17, "logo_rest": 1.40,
     "phone_land": 2.40, "type": [2.55, 2.70, 2.86, 3.02, 3.18], "autocomplete": [2.80, 3.10, 3.30],
