@@ -1,5 +1,6 @@
-# Plan Instagram · @jurnalul.alimentar · 23 nov – 6 dec 2026
+# Plan Instagram · @jurnalul.alimentar · 22 nov – 6 dec 2026
 
+**Regula:** în fiecare zi o postare în feed, fără excepție (reel, carusel sau imagine).
 **Ritm:** 2 postări pe zi = **1 postare în feed + 1 serie de stories**. În feed: **reel o dată la 2 zile**, în zilele dintre: carusel sau imagine.
 **Ora:** feed la **19:00–19:30** (ora României). Publicul e consumator, deci seara după muncă. Stories: 3–5 cadre, la prânz (12:30) și seara.
 **Obiectiv:** clienți. Fiecare postare are **o singură cerere**, de obicei un cuvânt-cheie în comentarii, care declanșează un DM automat cu linkul.
@@ -22,6 +23,7 @@ Niciodată două postări de același tip una după alta.
 
 | zi | ora | format | tip | hook | unghi | cuvânt-cheie |
 |---|---|---|---|---|---|---|
+| D 22 | 19:00 | CARUSEL ✅ gata | PROOF | #26 Superlative | „Câte calorii are prăjitura ta?”: 5 deserturi Zoomserie la 100 g (Kornet 256 … Bueno Profiterol 390), catalogul oficial 2025. | JURNAL |
 | **L 23** | 19:30 | **REEL** ✅ gata | FEATURE | #2 Negative Command | Overview cinematic: „Nu mai ghici caloriile.” | JURNAL |
 | Ma 24 | 19:00 | CARUSEL | TEACH | #11 Numbered | „Cum citești o etichetă în 10 secunde”: per 100 g vs porție, kcal, proteine, sare. Ultimul slide: „sau o scanezi”. | ETICHETA |
 | **Mi 25** | 19:30 | **REEL** ✅ gata | OFFER | #2 Negative Command | Plan Premium: „Nu mai întreba ce mănânci mâine.” | PLAN |

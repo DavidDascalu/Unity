@@ -1,8 +1,9 @@
-SĂPTĂMÂNA 1 · 23–29 noiembrie 2026
+SĂPTĂMÂNA 1 · 22–29 noiembrie 2026 · în fiecare zi o postare
 
-Fiecare reel sau poză are lângă ea un fișier „- descriere.txt” cu ziua, ora și descrierea gata de copiat.
+Fiecare postare are lângă ea un fișier „- descriere.txt” cu ziua, ora, cuvântul-cheie și descrierea gata de copiat.
 
 Gata acum:
+  0. Duminică 22 nov, 19:00: CARUSEL „Câte calorii are prăjitura ta?” (9 slide-uri) + 3 cadre STORIES (JURNAL)
   1. Luni 23 nov, 19:30: REEL Overview cinematic (JURNAL)
   2. Miercuri 25 nov, 19:30: REEL Plan Premium (PLAN)
 
@@ -13,4 +14,4 @@ Urmează (le pregătesc în dimineața zilei respective):
   Sâmbătă 28: IMAGINE idee de masă (IDEI)
   Duminică 29: REEL „Nu te cântări ca să te sperii” (JURNAL)
 
-Înainte de prima postare, setează în Instagram răspunsurile automate la cuvintele-cheie (textele sunt în plan).
+Înainte de prima postare, setează în Instagram răspunsurile automate la cuvintele-cheie (textele sunt în instagram/plan.md).

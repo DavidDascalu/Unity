@@ -1,0 +1,11 @@
+{"slides": [
+ {"kind": "cover", "eyebrow": "ZOOMSERIE · LA 100 G", "title": "Câte calorii are", "accent": "prăjitura ta?", "sub": "5 deserturi, cifre din catalogul oficial Zoomserie. Ghicește care e pe primul loc.", "swipe": "glisează →"},
+ {"kind": "stake", "title": "Aceeași porție de 100 g. Până la 134 kcal diferență.", "sub": "Între cea mai ușoară și cea mai grea prăjitură din listă. Merită să știi înainte să alegi."},
+ {"kind": "item", "rank": "LOCUL 5", "value": "256", "unit": "kcal", "name": "Prăjitura Kornet", "note": "la 100 g · catalogul oficial Zoomserie 2025"},
+ {"kind": "item", "rank": "LOCUL 4", "value": "286", "unit": "kcal", "name": "Prăjitură Tiramisu", "note": "la 100 g · catalogul oficial Zoomserie 2025"},
+ {"kind": "item", "rank": "LOCUL 3", "value": "307", "unit": "kcal", "name": "Tort Black Forest", "note": "la 100 g · catalogul oficial Zoomserie 2025"},
+ {"kind": "item", "rank": "LOCUL 2", "value": "359", "unit": "kcal", "name": "Cheesecake cu cireșe", "note": "la 100 g · catalogul oficial Zoomserie 2025"},
+ {"kind": "item", "rank": "LOCUL 1", "value": "390", "unit": "kcal", "name": "Tort Bueno Profiterol", "note": "la 100 g · catalogul oficial Zoomserie 2025"},
+ {"kind": "recap", "title": "Pe scurt, la 100 g", "rows": [["Kornet", "256"], ["Tiramisu", "286"], ["Black Forest", "307"], ["Cheesecake cu cireșe", "359"], ["Bueno Profiterol", "390"]], "foot": "Valori în kcal, din catalogul general oficial Zoomserie 2025. Rețetele se pot schimba."},
+ {"kind": "cta", "title": "Toate cele 177 de produse Zoomserie sunt în jurnal.", "keyword": "JURNAL", "sub": "Scrie JURNAL în comentarii și îți trimit linkul."}
+]}
