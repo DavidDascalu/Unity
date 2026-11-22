@@ -1,0 +1,759 @@
+{
+ "L30_P1": {
+  "style": "light",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "COVRIGI LUCA · PE BUCATĂ",
+    "title": "De la 252",
+    "accent": "la 448 kcal.",
+    "sub": "Cinci covrigi, cu gramajul real din fișa oficială.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "recap",
+    "title": "kcal pe bucată",
+    "rows": [
+     [
+      "Pretzel · 90 g",
+      "252"
+     ],
+     [
+      "Cu cașcaval · 85 g",
+      "255"
+     ],
+     [
+      "Cu vișine · 110 g",
+      "292"
+     ],
+     [
+      "Cu mac · 110 g",
+      "402"
+     ],
+     [
+      "Cu semințe · 110 g",
+      "448"
+     ]
+    ],
+    "foot": "Luca, fișa oficială. Valorile nutriționale sunt estimări și pot varia."
+   },
+   {
+    "kind": "cta",
+    "title": "Toate cele 26 de produse Luca sunt în jurnal.",
+    "keyword": "JURNAL",
+    "sub": "Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ],
+  "day": "Luni 30 nov",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "CARUSEL Covrigi Luca"
+ },
+ "L30_P2": {
+  "style": "lime",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "ȚINTA TA",
+    "title": "Fără plan?",
+    "accent": "Pune-ți ținta.",
+    "sub": "În Setări notezi câte kcal vrei pe zi, iar cercul zilei îți arată cât ai înregistrat.",
+    "keyword": "JURNAL"
+   }
+  ],
+  "day": "Luni 30 nov",
+  "time": "17:00",
+  "kw": "JURNAL",
+  "title": "IMAGINE Tinta proprie"
+ },
+ "Ma1_P1": {
+  "style": "dark",
+  "slides": [
+   {
+    "kind": "recap",
+    "title": "Altă băutură, kcal",
+    "rows": [
+     [
+      "Meniu Zinger® cu Coca-Cola",
+      "206"
+     ],
+     [
+      "Meniu Zinger® cu Coca-Cola Zero",
+      "192"
+     ]
+    ],
+    "foot": "kcal la 100 g de meniu, fișa oficială KFC. Diferența vine doar din băutură. Valorile nutriționale sunt estimări și pot varia."
+   }
+  ],
+  "day": "Marti 1 dec",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "IMAGINE KFC Coca-Cola vs Zero"
+ },
+ "Ma1_P2": {
+  "style": "light",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "IDEI DIN APLICAȚIE",
+    "title": "3 idei",
+    "accent": "de cină.",
+    "sub": "Cu gramaje, ca să le notezi ușor.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "list",
+    "title": "Cina de azi",
+    "rows": [
+     [
+      "Somon cu fasole verde și cartof",
+      "120 g somon, 200 g fasole verde, 150 g cartof fiert."
+     ],
+     [
+      "Curcan cu dovlecel și mămăligă",
+      "130 g curcan gătit, 200 g dovlecel, 150 g mămăligă."
+     ],
+     [
+      "Tofu cu ciuperci și orez",
+      "140 g tofu, 180 g ciuperci, 120 g orez fiert."
+     ]
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Mai multe idei de cină sunt în jurnal.",
+    "keyword": "IDEI",
+    "sub": "Scrie IDEI în comentarii și îți trimit linkul."
+   }
+  ],
+  "day": "Marti 1 dec",
+  "time": "17:00",
+  "kw": "IDEI",
+  "title": "CARUSEL Idei de cina"
+ },
+ "Mi2_P1": {
+  "style": "lime",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "NU DOAR CALORII",
+    "title": "Calorii, macro,",
+    "accent": "și fibre.",
+    "sub": "Pentru fiecare aliment vezi calorii, proteine, carbohidrați, grăsimi, fibre și sare.",
+    "keyword": "JURNAL"
+   }
+  ],
+  "day": "Miercuri 2 dec",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "IMAGINE Fibre"
+ },
+ "Mi2_P2": {
+  "style": "dark",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "PROTEINE · LA 100 G",
+    "title": "Câte proteine",
+    "accent": "are?",
+    "sub": "Patru alimente obișnuite, valori medii USDA din aplicație.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "recap",
+    "title": "Proteine la 100 g",
+    "rows": [
+     [
+      "Piept de pui, gătit",
+      "31 g"
+     ],
+     [
+      "Ou fiert",
+      "12,6 g"
+     ],
+     [
+      "Brânză cottage",
+      "11,1 g"
+     ],
+     [
+      "Iaurt simplu integral",
+      "3,5 g"
+     ]
+    ],
+    "foot": "Valori medii USDA din catalogul aplicației. Valorile nutriționale sunt estimări și pot varia."
+   },
+   {
+    "kind": "cta",
+    "title": "Cauți orice aliment și vezi proteinele lui.",
+    "keyword": "JURNAL",
+    "sub": "Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ],
+  "day": "Miercuri 2 dec",
+  "time": "17:00",
+  "kw": "JURNAL",
+  "title": "CARUSEL Proteine la 100 g"
+ },
+ "J3_P1": {
+  "style": "light",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "TRANSPARENȚĂ",
+    "title": "De unde vin",
+    "accent": "cifrele?",
+    "sub": "Valorile de restaurant sunt preluate doar când produsul, gramajul și tabelul sunt explicite. Alimentele de bază vin din USDA.",
+    "keyword": "JURNAL"
+   }
+  ],
+  "day": "Joi 3 dec",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "IMAGINE Surse"
+ },
+ "J3_P2": {
+  "style": "lime",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "BĂUTURI ȘI SUCURI",
+    "title": "29 de branduri",
+    "accent": "de băuturi.",
+    "sub": "Le măsori în ml, nu în grame.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "list",
+    "title": "Câteva dintre ele",
+    "rows": [
+     [
+      "Răcoritoare",
+      "Coca-Cola, Pepsi, Fanta, Sprite, 7UP, Mirinda."
+     ],
+     [
+      "Ceai și suc",
+      "Fuze Tea, Lipton Ice Tea, Cappy, Tymbark, Prigat."
+     ],
+     [
+      "Ape și energizante",
+      "Dorna, Borsec, Aqua Carpatica, Red Bull, Monster."
+     ]
+    ],
+    "foot": "Băuturile fără fișă individuală sunt orientative."
+   },
+   {
+    "kind": "cta",
+    "title": "Le găsești la Restaurant → Băuturi.",
+    "keyword": "JURNAL",
+    "sub": "Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ],
+  "day": "Joi 3 dec",
+  "time": "17:00",
+  "kw": "JURNAL",
+  "title": "CARUSEL Bauturi"
+ },
+ "V4_P1": {
+  "style": "dark",
+  "slides": [
+   {
+    "kind": "swatches",
+    "title": "Culorile din jurnal",
+    "rows": [
+     [
+      "Proteine",
+      "#38785a",
+      "#b2e79a"
+     ],
+     [
+      "Carbohidrați",
+      "#d88755",
+      "#f3c49e"
+     ],
+     [
+      "Grăsimi",
+      "#769cbb",
+      "#c8dbe9"
+     ]
+    ],
+    "foot": "Le vezi în rezumatul zilei, lângă totalul de kcal. Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ],
+  "day": "Vineri 4 dec",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "IMAGINE Culorile macronutrientilor"
+ },
+ "V4_P2": {
+  "style": "light",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "ISTORICUL TĂU",
+    "title": "Ultimele",
+    "accent": "30 de zile.",
+    "sub": "Vezi zilele cu înregistrări și mesele fiecărei zile. Fără cont, rămân salvate pe telefon.",
+    "keyword": "JURNAL"
+   }
+  ],
+  "day": "Vineri 4 dec",
+  "time": "17:00",
+  "kw": "JURNAL",
+  "title": "IMAGINE Istoricul"
+ },
+ "S5_P1": {
+  "style": "lime",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "PE ETICHETĂ",
+    "title": "100 g nu e",
+    "accent": "porția ta.",
+    "sub": "Valorile sunt la 100 g. Tu mănânci altă cantitate.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "stake",
+    "title": "61 kcal × 1,5 ≈ 92 kcal",
+    "sub": "Exemplu: iaurt simplu integral are 61 kcal la 100 g. O porție de 150 g are aproximativ 92 kcal."
+   },
+   {
+    "kind": "cta",
+    "title": "Pui cantitatea, jurnalul face calculul.",
+    "keyword": "JURNAL",
+    "sub": "Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ],
+  "day": "Sambata 5 dec",
+  "time": "11:00",
+  "kw": "JURNAL",
+  "title": "CARUSEL Din 100 g in portia ta"
+ },
+ "S5_P2": {
+  "style": "dark",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "PRINCIPIU SIMPLU",
+    "title": "Legume,",
+    "accent": "proteină, cereale.",
+    "sub": "Combini legume, o proteină și o porție de cereale integrale sau cartofi.",
+    "keyword": "IDEI"
+   }
+  ],
+  "day": "Sambata 5 dec",
+  "time": "17:00",
+  "kw": "IDEI",
+  "title": "IMAGINE Principiul farfuriei"
+ },
+ "D6_P1": {
+  "style": "lime",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "6 DECEMBRIE",
+    "title": "În ghetuță:",
+    "accent": "pară și nuci.",
+    "sub": "Gustare din ideile aplicației: 1 pară medie și 20 g nuci.",
+    "keyword": "IDEI"
+   }
+  ],
+  "day": "Duminica 6 dec",
+  "time": "11:00",
+  "kw": "IDEI",
+  "title": "IMAGINE Mos Nicolae"
+ },
+ "D6_P2": {
+  "style": "light",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "PE ETICHETĂ",
+    "title": "Sare = sodiu",
+    "accent": "× 2,5",
+    "sub": "Dacă eticheta scrie 0,4 g sodiu, ai 1 g sare. Unele etichete scriu doar sodiul.",
+    "keyword": "ETICHETA"
+   }
+  ],
+  "day": "Duminica 6 dec",
+  "time": "17:00",
+  "kw": "ETICHETA",
+  "title": "IMAGINE Sare si sodiu"
+ },
+ "L7_P1": {
+  "style": "dark",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "PLAN PERSONAL",
+    "title": "Ce nu mănânci",
+    "accent": "contează.",
+    "sub": "În profil treci alergiile și alimentele excluse. Recomandările planului țin cont de ele.",
+    "keyword": "PLAN"
+   }
+  ],
+  "day": "Luni 7 dec",
+  "time": "12:30",
+  "kw": "PLAN",
+  "title": "IMAGINE Alergii in plan"
+ },
+ "L7_P2": {
+  "style": "light",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "TURKISH KITCHEN",
+    "title": "Mic dejun turcesc,",
+    "accent": "pe porție.",
+    "sub": "Cinci preparate, cu gramajul din fișa oficială.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "recap",
+    "title": "kcal pe porție",
+    "rows": [
+     [
+      "Göz yumurta · 130 g",
+      "101"
+     ],
+     [
+      "Su böreği · 130 g",
+      "250"
+     ],
+     [
+      "Simit · 100 g",
+      "265"
+     ],
+     [
+      "Sigara böreği · 150 g",
+      "349"
+     ],
+     [
+      "Sucuk · 100 g",
+      "410"
+     ]
+    ],
+    "foot": "Turkish Kitchen, fișa oficială. Valorile nutriționale sunt estimări și pot varia."
+   },
+   {
+    "kind": "cta",
+    "title": "Toate cele 87 de produse sunt în jurnal.",
+    "keyword": "JURNAL",
+    "sub": "Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ],
+  "day": "Luni 7 dec",
+  "time": "17:00",
+  "kw": "JURNAL",
+  "title": "CARUSEL Turkish Kitchen"
+ },
+ "Ma8_P1": {
+  "style": "lime",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "CUMPĂRĂTURI",
+    "title": "Planul vine",
+    "accent": "cu lista.",
+    "sub": "Din Mai mult → Cumpărături ai lista pentru planul tău. Cu cont, se sincronizează între dispozitive.",
+    "keyword": "PLAN"
+   }
+  ],
+  "day": "Marti 8 dec",
+  "time": "12:30",
+  "kw": "PLAN",
+  "title": "IMAGINE Lista de cumparaturi"
+ },
+ "Ma8_P2": {
+  "style": "dark",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "QUIZ · BOSS MINI BURGERS",
+    "title": "Uno are 231 kcal.",
+    "accent": "Câte are Trio?",
+    "sub": "Răspunsul e pe slide-ul următor.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "recap",
+    "title": "Răspunsul, kcal",
+    "rows": [
+     [
+      "Uno · 110 g",
+      "231"
+     ],
+     [
+      "Duo · 220 g",
+      "461"
+     ],
+     [
+      "Trio · 330 g",
+      "692"
+     ],
+     [
+      "Partypack · 1.320 g",
+      "2.768"
+     ]
+    ],
+    "foot": "Boss Mini Burgers, fișa oficială. Valorile nutriționale sunt estimări și pot varia."
+   },
+   {
+    "kind": "cta",
+    "title": "Toate burgerii lor sunt în jurnal.",
+    "keyword": "JURNAL",
+    "sub": "Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ],
+  "day": "Marti 8 dec",
+  "time": "17:00",
+  "kw": "JURNAL",
+  "title": "CARUSEL Quiz Boss Mini Burgers"
+ },
+ "Mi9_P1": {
+  "style": "light",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "ESTIMĂRI",
+    "title": "De ce diferă",
+    "accent": "caloriile?",
+    "sub": "Depind de marca produselor și de modul de preparare. De aceea, în jurnal, valorile sunt estimări.",
+    "keyword": "JURNAL"
+   }
+  ],
+  "day": "Miercuri 9 dec",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "IMAGINE De ce difera caloriile"
+ },
+ "Mi9_P2": {
+  "style": "lime",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "IDEI DIN APLICAȚIE",
+    "title": "3 idei",
+    "accent": "de prânz.",
+    "sub": "Cu gramaje, ca să le notezi ușor.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "list",
+    "title": "Prânzul de azi",
+    "rows": [
+     [
+      "Lipie cu pui, iaurt și legume",
+      "1 lipie, 120 g pui gătit, 150 g legume, 50 g sos de iaurt."
+     ],
+     [
+      "Cartof copt cu cottage",
+      "250 g cartof copt, 150 g brânză cottage, 150 g salată."
+     ],
+     [
+      "Ciorbă de fasole",
+      "350 ml ciorbă de fasole, 60 g pâine integrală."
+     ]
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Mai multe idei de prânz sunt în jurnal.",
+    "keyword": "IDEI",
+    "sub": "Scrie IDEI în comentarii și îți trimit linkul."
+   }
+  ],
+  "day": "Miercuri 9 dec",
+  "time": "17:00",
+  "kw": "IDEI",
+  "title": "CARUSEL Idei de pranz"
+ },
+ "J10_P1": {
+  "style": "dark",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "ANALIZĂ AI · PREMIUM",
+    "title": "Analiză AI,",
+    "accent": "doar cu acordul tău.",
+    "sub": "Datele alese pot fi trimise către OpenAI pentru funcțiile AI cerute, fără email sau nume. Retragi acordul oricând.",
+    "keyword": "PLAN"
+   }
+  ],
+  "day": "Joi 10 dec",
+  "time": "12:30",
+  "kw": "PLAN",
+  "title": "IMAGINE Analiza AI"
+ },
+ "J10_P2": {
+  "style": "light",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "FĂRĂ VINOVĂȚIE",
+    "title": "Ai sărit o zi?",
+    "accent": "Continui mâine.",
+    "sub": "Deschizi jurnalul și notezi următoarea masă. Atât. Un pas odată.",
+    "keyword": "JURNAL"
+   }
+  ],
+  "day": "Joi 10 dec",
+  "time": "17:00",
+  "kw": "JURNAL",
+  "title": "IMAGINE Ai sarit o zi"
+ },
+ "V11_P1": {
+  "style": "lime",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "ÎNTREBARE",
+    "title": "Ce restaurant",
+    "accent": "lipsește?",
+    "sub": "Avem 13 restaurante cu valori din fișele oficiale. Spune-ne în comentarii ce local vrei să căutăm în continuare."
+   }
+  ],
+  "day": "Vineri 11 dec",
+  "time": "12:30",
+  "kw": null,
+  "title": "IMAGINE Ce restaurant lipseste"
+ },
+ "V11_P2": {
+  "style": "dark",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "DECEMBRIE",
+    "title": "Mese lungi,",
+    "accent": "fără vinovăție.",
+    "sub": "Sărbătorile vin cu mâncare bună. E normal.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "list",
+    "title": "Cum folosești jurnalul",
+    "rows": [
+     [
+      "Notezi ce poți",
+      "Nu trebuie să fie perfect."
+     ],
+     [
+      "Te uiți la tendință",
+      "O zi nu schimbă nimic."
+     ],
+     [
+      "Revii a doua zi",
+      "Un pas odată."
+     ]
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Jurnalul te așteaptă și după sărbători.",
+    "keyword": "JURNAL",
+    "sub": "Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ],
+  "day": "Vineri 11 dec",
+  "time": "17:00",
+  "kw": "JURNAL",
+  "title": "CARUSEL Decembrie fara vinovatie"
+ },
+ "S12_P1": {
+  "style": "light",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "SUGESTII",
+    "title": "Ce pot mânca",
+    "accent": "acum?",
+    "sub": "Cu cont și profil completat primești sugestii pentru momentul zilei.",
+    "keyword": "JURNAL"
+   }
+  ],
+  "day": "Sambata 12 dec",
+  "time": "11:00",
+  "kw": "JURNAL",
+  "title": "IMAGINE Ce pot manca acum"
+ },
+ "S12_P2": {
+  "style": "lime",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "GUSTARE DE SEARĂ",
+    "title": "Popcorn simplu",
+    "accent": "și un fruct.",
+    "sub": "25 g porumb pentru popcorn și 1 fruct mic. Din ideile aplicației.",
+    "keyword": "IDEI"
+   }
+  ],
+  "day": "Sambata 12 dec",
+  "time": "17:00",
+  "kw": "IDEI",
+  "title": "IMAGINE Gustare de seara"
+ },
+ "D13_P1": {
+  "style": "dark",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "CONTROLUL E AL TĂU",
+    "title": "Pleci când vrei.",
+    "accent": "Cu tot cu date.",
+    "sub": "Din Setări îți ștergi definitiv contul: profilul, mesele, planurile și progresul.",
+    "keyword": "JURNAL"
+   }
+  ],
+  "day": "Duminica 13 dec",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "IMAGINE Stergerea contului"
+ },
+ "D13_P2": {
+  "style": "light",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "TAKSIM · PORȚIA ÎNTREAGĂ",
+    "title": "Același pui,",
+    "accent": "alt număr.",
+    "sub": "Grătar sau șnițel, din fișa oficială Taksim.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "recap",
+    "title": "kcal pe porție",
+    "rows": [
+     [
+      "Piept de pui la grătar · 500 g",
+      "620"
+     ],
+     [
+      "Frigărui de pui · 500 g",
+      "1.075"
+     ],
+     [
+      "Chiftele la farfurie · 500 g",
+      "1.315"
+     ],
+     [
+      "Șnițel de pui · 450 g",
+      "1.424"
+     ]
+    ],
+    "foot": "Taksim, fișa oficială. Valorile nutriționale sunt estimări și pot varia."
+   },
+   {
+    "kind": "cta",
+    "title": "Toate cele 42 de produse Taksim sunt în jurnal.",
+    "keyword": "JURNAL",
+    "sub": "Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ],
+  "day": "Duminica 13 dec",
+  "time": "17:00",
+  "kw": "JURNAL",
+  "title": "CARUSEL Taksim"
+ }
+}
