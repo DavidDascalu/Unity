@@ -1,0 +1,379 @@
+{
+ "D22_P2": {
+  "day": "Duminica 22 nov",
+  "time": "17:00",
+  "kw": "JURNAL",
+  "title": "IMAGINE Apa",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "APĂ BĂUTĂ AZI",
+    "title": "Notezi și apa,",
+    "accent": "nu doar mâncarea.",
+    "sub": "Adaugi paharele în jurnal, în ml, și le vezi în raport lângă calorii și proteine.",
+    "keyword": "JURNAL"
+   }
+  ]
+ },
+ "L23_P1": {
+  "day": "Luni 23 nov",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "CARUSEL Crud sau gatit",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "CRUD SAU GĂTIT?",
+    "title": "Același somon,",
+    "accent": "alt număr.",
+    "sub": "Valori medii USDA per 100 g, din catalogul aplicației.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "recap",
+    "title": "Somon, kcal la 100 g",
+    "rows": [
+     [
+      "Chum, crud",
+      "120"
+     ],
+     [
+      "Chum, gătit",
+      "154"
+     ],
+     [
+      "Pink, crud",
+      "127"
+     ],
+     [
+      "Pink, gătit",
+      "153"
+     ],
+     [
+      "Sockeye, crud → gătit",
+      "131 → 156"
+     ]
+    ],
+    "foot": "Gătit pierde apă, deci 100 g gătit au mai multe calorii. Valorile nutriționale sunt estimări și pot varia."
+   },
+   {
+    "kind": "cta",
+    "title": "În jurnal alegi varianta crudă sau gătită.",
+    "keyword": "JURNAL",
+    "sub": "Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ]
+ },
+ "L23_P2": {
+  "day": "Luni 23 nov",
+  "time": "17:00",
+  "kw": "JURNAL",
+  "title": "IMAGINE Whopper Junior vs Triplu",
+  "slides": [
+   {
+    "kind": "recap",
+    "title": "Același burger? kcal",
+    "rows": [
+     [
+      "Whopper Junior · 135 g",
+      "320"
+     ],
+     [
+      "Whopper · 269 g",
+      "617"
+     ],
+     [
+      "Dbl. Whopper · 349 g",
+      "836"
+     ],
+     [
+      "Triplu Whopper · 429 g",
+      "1.056"
+     ]
+    ],
+    "foot": "Burger King, valori din fișa oficială, porția întreagă. Valorile nutriționale sunt estimări și pot varia."
+   }
+  ]
+ },
+ "Ma24_P1": {
+  "day": "Marti 24 nov",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "CARUSEL Masa compusa",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "MASĂ COMPUSĂ",
+    "title": "Rețeta ta,",
+    "accent": "salvată o dată.",
+    "sub": "Pui toate ingredientele într-o singură masă și o refolosești.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "list",
+    "title": "Cum o faci",
+    "rows": [
+     [
+      "Adaugă o masă compusă",
+      "Din ecranul principal, butonul „Adaugă o masă compusă”."
+     ],
+     [
+      "Pui ingredientele",
+      "Fiecare cu gramajul lui."
+     ],
+     [
+      "O salvezi",
+      "Data viitoare o adaugi cu un tap."
+     ]
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Ciorba de acasă intră în jurnal la fel de ușor.",
+    "keyword": "JURNAL",
+    "sub": "Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ]
+ },
+ "Ma24_P2": {
+  "day": "Marti 24 nov",
+  "time": "19:00",
+  "kw": "JURNAL",
+  "title": "IMAGINE Mementouri blande",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "MEMENTOURI BLÂNDE",
+    "title": "Îți amintim.",
+    "accent": "Nu te certăm.",
+    "sub": "Alegi tu orele. Jurnalul îți amintește să notezi masa, atât.",
+    "image": "img/notification.png",
+    "image_box": [
+     840,
+     200
+    ],
+    "image_y": 860,
+    "keyword": "JURNAL"
+   }
+  ]
+ },
+ "Mi25_P1": {
+  "day": "Miercuri 25 nov",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "IMAGINE Repeta o masa",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "REPETĂ O MASĂ RECENTĂ",
+    "title": "Mănânci la fel",
+    "accent": "în fiecare zi?",
+    "sub": "Repeți o masă din zilele trecute, fără să o cauți din nou.",
+    "keyword": "JURNAL"
+   }
+  ]
+ },
+ "Mi25_P2": {
+  "day": "Miercuri 25 nov",
+  "time": "17:00",
+  "kw": "JURNAL",
+  "title": "IMAGINE Raportul meu",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "RAPORTUL MEU",
+    "title": "7, 30 sau",
+    "accent": "90 de zile.",
+    "sub": "Medii doar din zilele în care ai notat. Zilele fără date nu sunt zero calorii.",
+    "keyword": "JURNAL"
+   }
+  ]
+ },
+ "J26_P1": {
+  "day": "Joi 26 nov",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "IMAGINE Provocarile mele",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "PROVOCĂRILE MELE",
+    "title": "Consecvență,",
+    "accent": "nu restricții.",
+    "sub": "Provocări opționale, fără puncte pentru greutate sau restricții. Le activezi doar dacă vrei.",
+    "keyword": "JURNAL"
+   }
+  ]
+ },
+ "J26_P2": {
+  "day": "Joi 26 nov",
+  "time": "19:00",
+  "kw": "IDEI",
+  "title": "IMAGINE Idee de mic dejun",
+  "slides": [
+   {
+    "kind": "list",
+    "title": "Idee de mic dejun",
+    "rows": [
+     [
+      "Clătite cu ovăz și banană",
+      "1 banană, 1 ou, 40 g ovăz, 100 g iaurt simplu."
+     ],
+     [
+      "Kefir cu ovăz și pară",
+      "250 ml kefir, 35 g fulgi de ovăz, 1 pară mică."
+     ],
+     [
+      "Ouă fierte cu avocado",
+      "2 ouă, 50 g avocado, 60 g pâine, 100 g roșii."
+     ]
+    ],
+    "foot": "Idei din aplicație. Scrie IDEI în comentarii și îți trimit linkul."
+   }
+  ]
+ },
+ "V27_P1": {
+  "day": "Vineri 27 nov",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "IMAGINE Asistentul",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "ASISTENT",
+    "title": "Spune ce",
+    "accent": "ai mâncat.",
+    "sub": "Restaurant, produs, porție. Asistentul îți arată sursa și cere confirmarea înainte să adauge în jurnal.",
+    "keyword": "JURNAL"
+   }
+  ]
+ },
+ "V27_P2": {
+  "day": "Vineri 27 nov",
+  "time": "19:00",
+  "kw": "JURNAL",
+  "title": "IMAGINE Datele raman pe telefon",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "CONFIDENȚIALITATE",
+    "title": "Jurnalul tău",
+    "accent": "rămâne al tău.",
+    "sub": "Fără cont, mesele rămân pe telefonul tău. Le exporți oricând în CSV sau JSON și le poți șterge cu un tap.",
+    "keyword": "JURNAL"
+   }
+  ]
+ },
+ "S28_P1": {
+  "day": "Sambata 28 nov",
+  "time": "11:00",
+  "kw": "JURNAL",
+  "title": "CARUSEL Instaleaza pe telefon",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "PE ECRANUL TELEFONULUI",
+    "title": "Ca o aplicație,",
+    "accent": "fără magazin.",
+    "sub": "Jurnalul se pune pe ecranul principal în 2 pași.",
+    "swipe": "glisează →"
+   },
+   {
+    "kind": "list",
+    "title": "Instalare",
+    "rows": [
+     [
+      "iPhone",
+      "Distribuie → Adaugă la ecranul principal."
+     ],
+     [
+      "Android",
+      "Meniul browserului → Instalează."
+     ],
+     [
+      "Gata",
+      "Îl deschizi din ecranul principal."
+     ]
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Deschide linkul pe telefon și instalează-l.",
+    "keyword": "JURNAL",
+    "sub": "Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ]
+ },
+ "S28_P2": {
+  "day": "Sambata 28 nov",
+  "time": "18:00",
+  "kw": "JURNAL",
+  "title": "IMAGINE Teme de culoare",
+  "slides": [
+   {
+    "kind": "swatches",
+    "title": "Alege-ți culoarea",
+    "rows": [
+     [
+      "Verde mentă",
+      "#f4f6f1",
+      "#255e46"
+     ],
+     [
+      "Albastru ocean",
+      "#f2f7fb",
+      "#225f7e"
+     ],
+     [
+      "Lavandă",
+      "#f7f4fa",
+      "#614b80"
+     ],
+     [
+      "Piersică",
+      "#fbf5ef",
+      "#8b5436"
+     ],
+     [
+      "Noapte verde",
+      "#11231b",
+      "#b2e79a"
+     ]
+    ],
+    "foot": "5 teme în Setări. Preferința se salvează pe telefonul tău. Scrie JURNAL în comentarii și îți trimit linkul."
+   }
+  ]
+ },
+ "D29_P1": {
+  "day": "Duminica 29 nov",
+  "time": "12:30",
+  "kw": "JURNAL",
+  "title": "IMAGINE Fructe si legume",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "FRUCTE & LEGUME",
+    "title": "Alegi leguma,",
+    "accent": "pui gramajul.",
+    "sub": "Estimări pentru legume crude, fără ulei sau sos. Restul îl calculează jurnalul.",
+    "keyword": "JURNAL"
+   }
+  ]
+ },
+ "D29_P2": {
+  "day": "Duminica 29 nov",
+  "time": "17:00",
+  "kw": "POZA",
+  "title": "IMAGINE Poza masa",
+  "slides": [
+   {
+    "kind": "cover",
+    "eyebrow": "POZĂ MASĂ",
+    "title": "Fotografiezi farfuria.",
+    "accent": "Tu confirmi.",
+    "sub": "Aplicația propune alimentele vizibile, tu confirmi denumirea și cantitatea. Cu cont și acord AI.",
+    "keyword": "POZA"
+   }
+  ]
+ }
+}

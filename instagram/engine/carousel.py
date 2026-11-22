@@ -5,7 +5,7 @@ spec = {"slides": [{"kind": "cover"|"stake"|"item"|"recap"|"cta", ...}], "source
 """
 import json, os, sys
 import numpy as np
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageChops
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 W, H = 1080, 1350
@@ -40,7 +40,7 @@ def base(i, n, glow_xy=(540, 520)):
     d = ImageDraw.Draw(im)
     im.alpha_composite(logo, (120, H - 150))
     d.text((200, H - 118), HANDLE, font=F("Inter-SemiBold", 32), fill=MUTED, anchor="lm")
-    d.text((W - 120, H - 118), f"{i}/{n}", font=F("Inter-SemiBold", 32), fill=MUTED, anchor="rm")
+    if n > 1: d.text((W - 120, H - 118), f"{i}/{n}", font=F("Inter-SemiBold", 32), fill=MUTED, anchor="rm")
     return im, d
 
 def text_block(d, x, y, text, font, fill, maxw, lh=1.1):
@@ -66,6 +66,38 @@ def render(spec, out_dir, prefix):
             if s.get("accent"): y = text_block(d, 120, y, s["accent"], F("InterDisplay-Black", 118), LIME, 840, 1.04)
             text_block(d, 120, y + 40, s.get("sub", ""), F("Inter-Medium", 42), MUTED, 840, 1.3)
             if s.get("swipe"): d.text((W - 120, H - 230), s["swipe"], font=F("Inter-Bold", 38), fill=LIME, anchor="rm")
+            if s.get("image"):
+                pic = Image.open(os.path.join(HERE, s["image"])).convert("RGBA"); mw, mh = s.get("image_box", [840, 420])
+                pic.thumbnail((mw, mh), Image.LANCZOS)
+                if s.get("image_round"):
+                    mk = Image.new("L", pic.size, 0); ImageDraw.Draw(mk).rounded_rectangle([0, 0, pic.width - 1, pic.height - 1], 40, fill=255)
+                    pic.putalpha(ImageChops.multiply(pic.getchannel("A"), mk))
+                im.alpha_composite(pic, ((W - pic.width) // 2, int(s.get("image_y", H - 200 - pic.height - (150 if s.get("keyword") else 0)))))
+                d = ImageDraw.Draw(im)
+            if s.get("keyword"):
+                kw = F("Inter-Bold", 40); txt = "Scrie " + s["keyword"] + " în comentarii"; w = d.textlength(txt, font=kw)
+                d.rounded_rectangle([120, H - 300, 120 + w + 80, H - 210], 45, fill=LIME); d.text((160, H - 255), txt, font=kw, fill=INK, anchor="lm")
+        elif kind == "swatches":
+            d.text((120, 250), s["title"], font=F("InterDisplay-Black", 76), fill=WHITE)
+            y = 370
+            for name, bgc, acc in s["rows"]:
+                h2 = lambda x: tuple(int(x[i:i + 2], 16) for i in (1, 3, 5))
+                d.rounded_rectangle([120, y, W - 120, y + 118], 34, fill=(34, 74, 58))
+                d.ellipse([150, y + 19, 230, y + 99], fill=h2(bgc), outline=(255, 255, 255), width=3)
+                d.ellipse([172, y + 41, 208, y + 77], fill=h2(acc))
+                d.text((270, y + 59), name, font=F("InterDisplay-Bold", 48), fill=WHITE, anchor="lm")
+                y += 130
+            if s.get("foot"): text_block(d, 120, y + 10, s["foot"], F("Inter-Medium", 30), MUTED, 840, 1.3)
+        elif kind == "list":
+            d.text((120, 250), s["title"], font=F("InterDisplay-Black", 72), fill=WHITE)
+            y = 380
+            for j, (t1, t2) in enumerate(s["rows"]):
+                d.rounded_rectangle([120, y, W - 120, y + 200], 34, fill=(34, 74, 58))
+                d.ellipse([150, y + 40, 220, y + 110], fill=LIME); d.text((185, y + 76), str(j + 1), font=F("Inter-Bold", 38), fill=INK, anchor="mm")
+                d.text((250, y + 40), t1, font=F("InterDisplay-Bold", 44), fill=WHITE)
+                text_block(d, 250, y + 100, t2, F("Inter-Medium", 32), MUTED, 680, 1.3)
+                y += 224
+            if s.get("foot"): text_block(d, 120, y + 6, s["foot"], F("Inter-Medium", 30), MUTED, 840, 1.35)
         elif kind == "stake":
             y = text_block(d, 120, 380, s["title"], F("InterDisplay-Bold", 92), WHITE, 840, 1.1)
             text_block(d, 120, y + 40, s.get("sub", ""), F("Inter-Medium", 44), MUTED, 840, 1.35)
