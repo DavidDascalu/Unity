@@ -3,10 +3,10 @@ import json, os, shutil, subprocess, glob
 HERE = os.path.dirname(os.path.abspath(__file__)); REPO = os.path.abspath(os.path.join(HERE, "..", ".."))
 P = json.load(open(os.path.join(HERE, "posts.json"), encoding="utf-8")); C = json.load(open(os.path.join(HERE, "captions.json"), encoding="utf-8"))
 RC = json.load(open(os.path.join(HERE, "reel_captions.json"), encoding="utf-8"))
-REEL = {"x1": ("Marti 1 dec", "JURNAL", "REEL Adaugi masa prin voce"), "x2": ("Joi 3 dec", "ETICHETA", "REEL Codul de bare"),
-        "x3": ("Sambata 5 dec", "PLAN", "REEL Bugetul in plan"), "x4": ("Luni 7 dec", "JURNAL", "REEL Nuti ghidul"),
-        "x5": ("Miercuri 9 dec", "JURNAL", "REEL Gratuit vs Premium"), "x6": ("Vineri 11 dec", "JURNAL", "REEL Sincronizarea"),
-        "x7": ("Duminica 13 dec", "JURNAL", "REEL Momentele mesei")}
+REEL = {"x1": ("Marti 1 dec", "JURNAL", "REEL Chat cu vocea"), "x2": ("Joi 3 dec", "ETICHETA", "REEL Scan cod de bare"),
+        "x3": ("Sambata 5 dec", "PLAN", "REEL Buget kinetic"), "x4": ("Luni 7 dec", "JURNAL", "REEL Nuti pe ecran real"),
+        "x5": ("Miercuri 9 dec", "JURNAL", "REEL Gratuit vs Premium split"), "x6": ("Vineri 11 dec", "JURNAL", "REEL POV telefon si laptop"),
+        "x7": ("Duminica 13 dec", "JURNAL", "REEL O zi in timelapse")}
 WEEKS = {"Saptamana 2 (30 nov-6 dec)": ["L30_P1", "L30_P2", "Ma1_P1", "Ma1_P2", "x1", "Mi2_P1", "Mi2_P2", "J3_P1", "J3_P2", "x2",
                                         "V4_P1", "V4_P2", "S5_P1", "S5_P2", "x3", "D6_P1", "D6_P2"],
          "Saptamana 3 (7-13 dec)": ["L7_P1", "L7_P2", "x4", "Ma8_P1", "Ma8_P2", "Mi9_P1", "Mi9_P2", "x5", "J10_P1", "J10_P2",

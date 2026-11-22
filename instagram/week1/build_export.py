@@ -17,13 +17,13 @@ ORDER = [  # (kind, key, day, time, keyword, title)
     ("reel", "spot", "Luni 23 nov", "19:30", "JURNAL", "REEL Prezentare Jurnal Alimentar"),
     ("post", "L23_P1", None, None, None, None), ("post", "L23_P2", None, None, None, None),
     ("post", "Ma24_P1", None, None, None, None), ("post", "Ma24_P2", None, None, None, None),
-    ("reel", "r25", "Miercuri 25 nov", "19:30", "PLAN", "REEL Plan alimentar Premium"),
+    ("reel", "r25", "Miercuri 25 nov", "19:30", "PLAN", "REEL Plan calendar si bon"),
     ("post", "Mi25_P1", None, None, None, None), ("post", "Mi25_P2", None, None, None, None),
     ("post", "J26_P1", None, None, None, None), ("post", "J26_P2", None, None, None, None),
-    ("reel", "r27", "Vineri 27 nov", "19:30", "ETICHETA", "REEL Scaneaza eticheta"),
+    ("reel", "r27", "Vineri 27 nov", "19:30", "ETICHETA", "REEL Polaroid eticheta"),
     ("post", "V27_P1", None, None, None, None), ("post", "V27_P2", None, None, None, None),
     ("post", "S28_P1", None, None, None, None), ("post", "S28_P2", None, None, None, None),
-    ("reel", "r29", "Duminica 29 nov", "19:30", "JURNAL", "REEL Tendinta greutatii"),
+    ("reel", "r29", "Duminica 29 nov", "19:30", "JURNAL", "REEL Tendinta pe caiet"),
     ("post", "D29_P1", None, None, None, None), ("post", "D29_P2", None, None, None, None),
 ]
 
@@ -53,7 +53,7 @@ for n, (kind, key, day, time, kw, title) in enumerate(ORDER, 1):
         cap = DESSERT_CAP if kind == "post_d22" else C[key]
         note(os.path.join(X, f"{name} - descriere.txt"), day, time, kw, fmt, cap, extra)
     else:
-        src = os.path.join(REPO, "instagram", "spot", "out", "spot_1080x1920_60fps.mp4") if key == "spot" else os.path.join(HERE, "reels", f"{key}.mp4")
+        src = os.path.join(REPO, "instagram", "spot", "out", "spot_1080x1920_60fps.mp4") if key == "spot" else os.path.join(HERE, "reels", f"{key}_v2.mp4")
         compress(src, os.path.join(X, f"{name}.mp4"))
         cap = SPOT_CAP if key == "spot" else RC[key.upper()]
         note(os.path.join(X, f"{name} - descriere.txt"), day, time, kw, "REEL 9:16, 60 fps, cu voce", cap)
