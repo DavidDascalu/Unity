@@ -19,7 +19,7 @@ Lângă fiecare material e un fișier „- descriere.txt” cu ziua, ora, cuvân
   14. Vineri 27 nov, 12:30: IMAGINE Asistentul (JURNAL)
   15. Vineri 27 nov, 19:00: IMAGINE Datele raman pe telefon (JURNAL)
   16. Sambata 28 nov, 11:00: CARUSEL Instaleaza pe telefon (JURNAL)
-  17. Sambata 28 nov, 18:00: IMAGINE Teme de culoare (JURNAL)
+  17. Sambata 28 nov, 18:00: IMAGINE Zi sau noapte (JURNAL)
   18. Duminica 29 nov, 19:30: REEL Tendinta pe caiet (JURNAL)
   19. Duminica 29 nov, 12:30: IMAGINE Fructe si legume (JURNAL)
   20. Duminica 29 nov, 17:00: IMAGINE Poza masa (POZA)

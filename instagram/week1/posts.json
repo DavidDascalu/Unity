@@ -171,7 +171,8 @@
     "sub": "Repeți o masă din zilele trecute, fără să o cauți din nou.",
     "keyword": "JURNAL"
    }
-  ]
+  ],
+  "style": "light"
  },
  "Mi25_P2": {
   "day": "Miercuri 25 nov",
@@ -187,7 +188,8 @@
     "sub": "Medii doar din zilele în care ai notat. Zilele fără date nu sunt zero calorii.",
     "keyword": "JURNAL"
    }
-  ]
+  ],
+  "style": "lime"
  },
  "J26_P1": {
   "day": "Joi 26 nov",
@@ -203,7 +205,8 @@
     "sub": "Provocări opționale, fără puncte pentru greutate sau restricții. Le activezi doar dacă vrei.",
     "keyword": "JURNAL"
    }
-  ]
+  ],
+  "style": "dark"
  },
  "J26_P2": {
   "day": "Joi 26 nov",
@@ -230,7 +233,8 @@
     ],
     "foot": "Idei din aplicație. Scrie IDEI în comentarii și îți trimit linkul."
    }
-  ]
+  ],
+  "style": "light"
  },
  "V27_P1": {
   "day": "Vineri 27 nov",
@@ -246,7 +250,8 @@
     "sub": "Restaurant, produs, porție. Asistentul îți arată sursa și cere confirmarea înainte să adauge în jurnal.",
     "keyword": "JURNAL"
    }
-  ]
+  ],
+  "style": "lime"
  },
  "V27_P2": {
   "day": "Vineri 27 nov",
@@ -262,7 +267,8 @@
     "sub": "Fără cont, mesele rămân pe telefonul tău. Le exporți oricând în CSV sau JSON și le poți șterge cu un tap.",
     "keyword": "JURNAL"
    }
-  ]
+  ],
+  "style": "dark"
  },
  "S28_P1": {
   "day": "Sambata 28 nov",
@@ -302,47 +308,25 @@
     "keyword": "JURNAL",
     "sub": "Scrie JURNAL în comentarii și îți trimit linkul."
    }
-  ]
+  ],
+  "style": "light"
  },
  "S28_P2": {
   "day": "Sambata 28 nov",
   "time": "18:00",
   "kw": "JURNAL",
-  "title": "IMAGINE Teme de culoare",
+  "title": "IMAGINE Zi sau noapte",
   "slides": [
    {
-    "kind": "swatches",
-    "title": "Alege-ți culoarea",
-    "rows": [
-     [
-      "Verde mentă",
-      "#f4f6f1",
-      "#255e46"
-     ],
-     [
-      "Albastru ocean",
-      "#f2f7fb",
-      "#225f7e"
-     ],
-     [
-      "Lavandă",
-      "#f7f4fa",
-      "#614b80"
-     ],
-     [
-      "Piersică",
-      "#fbf5ef",
-      "#8b5436"
-     ],
-     [
-      "Noapte verde",
-      "#11231b",
-      "#b2e79a"
-     ]
-    ],
-    "foot": "5 teme în Setări. Preferința se salvează pe telefonul tău. Scrie JURNAL în comentarii și îți trimit linkul."
+    "kind": "cover",
+    "eyebrow": "MOD DE AFIȘARE",
+    "title": "Zi sau noapte?",
+    "accent": "Alegi tu.",
+    "sub": "În Setări alegi modul Zi, verde deschis, sau Noapte. Preferința se salvează pe acest dispozitiv.",
+    "keyword": "JURNAL"
    }
-  ]
+  ],
+  "style": "lime"
  },
  "D29_P1": {
   "day": "Duminica 29 nov",
@@ -358,7 +342,8 @@
     "sub": "Estimări pentru legume crude, fără ulei sau sos. Restul îl calculează jurnalul.",
     "keyword": "JURNAL"
    }
-  ]
+  ],
+  "style": "dark"
  },
  "D29_P2": {
   "day": "Duminica 29 nov",
@@ -374,6 +359,7 @@
     "sub": "Aplicația propune alimentele vizibile, tu confirmi denumirea și cantitatea. Cu cont și acord AI.",
     "keyword": "POZA"
    }
-  ]
+  ],
+  "style": "light"
  }
 }
